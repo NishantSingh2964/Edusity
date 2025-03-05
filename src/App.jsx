@@ -8,7 +8,7 @@ import Hero from './components/Header/Hero'
 import Navbar from './components/Navbar/Navbar'
 import Programs from './components/Programs/Programs'
 import Testimonials from './components/Testimonials/Testimonials'
-import Title from './components/Title/title'
+import Title from './components/Title/Title'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
 
 function App() {

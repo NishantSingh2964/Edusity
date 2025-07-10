@@ -47,6 +47,12 @@ university-website/
 
 [🔗 View Live Website](https://edusity-peach-nu.vercel.app/)
 
+## 🖼️ Screenshots
+
+ 
+![Edusity](https://github.com/NishantSingh2964/Edusity/blob/main/Screenshot%20(48).png)
+
+
 ---
 
 ## 📦 How to Run Locally
@@ -64,7 +70,11 @@ npm install
 # Start the development server
 npm start
 
+📄 License
+MIT License
+© 2025 nishantraj
 
-📷 Screenshots
-
-![Edusity](https://github.com/NishantSingh2964/Edusity/blob/main/Screenshot%20(48).png) 
+🙌 Acknowledgements
+React
+Tailwind CSS
+React Router
